@@ -1,8 +1,7 @@
 # Files converter
 
-## Converts files from following extensions
+## Converts files data to Java/Kotlin classes
 
-- CSV -> Java
-- XML -> Java
-- Json -> Java
-- 
+- CSV -> Java/Kotlin
+- XML -> Java/Kotlin
+- Json -> Java/Kotlin
